@@ -22,6 +22,8 @@ This help to find the right opportunity for you
 *  Designed a flexible configuration system for quick adjustments and scaling of agents, enhancing system performance.
 
 
+## About CrewAI 
+
 Welcome to the JobSearch Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
 ## Installation
