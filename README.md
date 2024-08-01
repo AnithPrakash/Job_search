@@ -15,7 +15,11 @@ This help to find the right opportunity for you
 ![Screenshot 2024-08-01 203929](https://github.com/user-attachments/assets/aa1d0d2e-abd9-4460-8085-9aaa7d543780)
 
 
+## 4. Key points 
 
+*  Led a team of 4 AI agents using CrewAI to automate key Job opportunity, boosting overall efficiency
+*  Constructed custom AI agents for About job, key points, job opportunity, and Interview Key Points, increasing productivity by 25%
+*  Designed a flexible configuration system for quick adjustments and scaling of agents, enhancing system performance.
 
 
 Welcome to the JobSearch Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
