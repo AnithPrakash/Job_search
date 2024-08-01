@@ -4,6 +4,18 @@
 
 The Crew AI Project is designed to support job applicants by leveraging advanced AI technologies to identify and enhance key skills, streamline project management, highlight critical interview points, and discover job opportunities. This comprehensive approach aims to empower individuals in their job search and career advancement
 
+## 2.Output of the application
+
+![Screenshot 2024-08-01 204617](https://github.com/user-attachments/assets/e9150dbe-7c28-4e10-9ef8-76ff399beabe)
+
+This help to find the right opportunity for you
+
+## 3. Process 
+
+![Screenshot 2024-08-01 203929](https://github.com/user-attachments/assets/aa1d0d2e-abd9-4460-8085-9aaa7d543780)
+
+
+
 
 
 Welcome to the JobSearch Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
